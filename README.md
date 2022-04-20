@@ -31,13 +31,14 @@ returns this wonderfull cat:
 
 ![My cat](./my_chocolate_cat.svg)
 
-This is quite long, so use the `.html` page to first find the options that suit to you.
+This command is quite long to type.
+First, use the `.html` page to find the options that suit to you.
 
 
 
 ## Html Page
 
-We use bokeh to generate the html page.
+We use [`bokeh`](https://docs.bokeh.org/en/latest/) to generate the html page.
 It doesn't support `.svg` image display, so we need to convert all necessary material to `.png`.
 
 
