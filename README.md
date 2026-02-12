@@ -70,8 +70,6 @@ templates/
 
 
 
-You can check the result hosted on my personal website [>> here <<](https://japoneris.neocities.org/images/crypto_cat/free_cryptocat.html).
-
-
+You can check the result hosted on my personal website [>> here <<](https://japoneris.neocities.org/assets/images/crypto_cat/free_cryptocat.html).
 
 
